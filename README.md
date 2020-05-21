@@ -5,10 +5,10 @@
 ## Demos
 | Demos | Description |
 | ---------- | -------------------- |
-| Rbasics | |
-| DataDownload | |
-| Georeferencing | |
-| Occurrence_data_cleaning ||
-| Takehome_Demos ||
+| Rbasics | Basic introduction to R based on [Chapters 1 - 5](https://datacarpentry.org/R-ecology-lesson/index.html) |
+| DataDownload |Downloaded data using the iDigBio API |
+| Georeferencing |Georeference specimen without LatLong |
+| Occurrence_data_cleaning | Clean specimen records |
+| Takehome_Demos | Used maxent to generate current ecological niche models |
 | ENMDemo ||
 
