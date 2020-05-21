@@ -12,3 +12,14 @@
 | Takehome_Demos | Used maxent to generate current ecological niche models |
 | ENMDemo ||
 
+## CURE Project
+| | Description |
+| ---------- | -------------------- |
+| 01_OccurrenceDataDownload.R | |
+| 02_OccurrenceDataCleaningStep1.R| |
+| 03_OccurrenceDataCleaningStep2.R| |
+| 04_ClimateLayers.R| |
+| 05_ClimaticNiche.R| |
+| 06_EcologicalNicheModeling.R| |
+| 07_ENMProcessing.R| |
+  
