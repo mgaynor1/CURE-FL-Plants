@@ -1,6 +1,13 @@
 # CURE-FL-Plants
+Spring 2020
+ML Gaynor
 
-**Purpose**: For sharing course material created during Spring 2020 at the University of Florida for CURE: Florida Plants and Climate Change. 
+## **Purpose**:   
+For sharing course material created during Spring 2020 at the University of Florida for 'CURE: Florida Plants and Climate Change'. This class was a 3 credit undergraduate course I taught with Pam and Doug Soltis. 
+
+**CURE**: Course-based Undergraduate Research Experience.
+  
+## Course information  
 
 ## Demos
 | Demos | Description |
