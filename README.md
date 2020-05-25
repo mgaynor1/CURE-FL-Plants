@@ -16,12 +16,12 @@ These analysis were focused on endangered/threatened species, therefore we did n
 ## Demos
 | Demos | Description |
 | ---------- | -------------------- |
-| Rbasics | Basic introduction to R based on [Chapters 1 - 5](https://datacarpentry.org/R-ecology-lesson/index.html) |
-| DownloadingData |Downloaded data using the iDigBio API |
-| Georeferencing |Georeference specimen without LatLong |
-| Occurrence_data_cleaning | Clean specimen records |
-| Takehome_Demos | Used maxent to generate current ecological niche models |
-| ENMDemo | ENM in R (without rJava) |
+| 01_Rbasics | Basic introduction to R based on [Chapters 1 - 5](https://datacarpentry.org/R-ecology-lesson/index.html) |
+| 02_DownloadingData |Downloaded data using the iDigBio API |
+| 03_Georeferencing |Georeference specimen without LatLong |
+| 04_Occurrence_data_cleaning | Clean specimen records |
+| 05_Takehome_Demos | Used maxent to generate current ecological niche models |
+| 06_ENMDemo | ENM in R (without rJava) |
 
 ## CURE Project
 | | Description |
