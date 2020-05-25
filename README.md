@@ -17,7 +17,7 @@ These analysis were focused on endangered/threatened species, therefore we did n
 | Demos | Description |
 | ---------- | -------------------- |
 | Rbasics | Basic introduction to R based on [Chapters 1 - 5](https://datacarpentry.org/R-ecology-lesson/index.html) |
-| DataDownload |Downloaded data using the iDigBio API |
+| DownloadingData |Downloaded data using the iDigBio API |
 | Georeferencing |Georeference specimen without LatLong |
 | Occurrence_data_cleaning | Clean specimen records |
 | Takehome_Demos | Used maxent to generate current ecological niche models |
