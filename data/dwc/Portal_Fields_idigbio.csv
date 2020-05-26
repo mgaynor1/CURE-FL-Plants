@@ -1,0 +1,228 @@
+type_dict_key,type_label,type_order,field_order,,field_label,field_master_term,field_dwc_term,field_solr_term
+taxonomy,Taxonomy,0,0,,Scientific Name,dwc:scientificName,dwc:scientificName,dwc_scientificname_t
+taxonomy,Taxonomy,0,1,,Higher Classfication,dwc:higherClassification,dwc:higherClassification,dwc_higherclassification_t
+taxonomy,Taxonomy,0,2,,Kingdom,dwc:kingdom,dwc:kingdom,dwc_kingdom_t
+taxonomy,Taxonomy,0,3,,Phylum,dwc:phylum,dwc:phylum,dwc_phylum_t
+taxonomy,Taxonomy,0,4,,Class,dwc:class,dwc:class,dwc_class_t
+taxonomy,Taxonomy,0,5,,Order,dwc:order,dwc:order,dwc_order_t
+taxonomy,Taxonomy,0,6,,Family,dwc:family,dwc:family,dwc_family_t
+taxonomy,Taxonomy,0,7,,Subfamily,idigbio:subfamily,idigbio:subfamily,idigbio_subfamily_t
+taxonomy,Taxonomy,0,8,,Tribe,idigbio:tribe,idigbio:tribe,idigbio_tribe_t
+taxonomy,Taxonomy,0,9,,Genus,dwc:genus,dwc:genus,dwc_genus_t
+taxonomy,Taxonomy,0,10,,Specific Epithet,dwc:specificEpithet,dwc:specificEpithet,dwc_specificepithet_t
+taxonomy,Taxonomy,0,11,,Infraspecific Epithet,dwc:infraspecificEpithet,dwc:infraspecificEpithet,dwc_infraspecificepithet_t
+taxonomy,Taxonomy,0,12,,Scientific Name Authors,dwc:scientificNameAuthorship,dwc:scientificNameAuthorship,dwc_scientificnameauthorship_t
+taxonomy,Taxonomy,0,13,,Taxon Rank,dwc:taxonRank,dwc:taxonRank,dwc_taxonrank_t
+taxonomy,Taxonomy,0,14,,Nomenclatural Status,dwc:nomenclaturalStatus,dwc:nomenclaturalStatus,dwc_nomenclaturalstatus_t
+taxonomy,Taxonomy,0,15,,Nomenclatural Code,dwc:nomenclaturalCode,dwc:nomenclaturalCode,dwc_nomenclaturalcode_t
+taxonomy,Taxonomy,0,16,,Vernacular Name,dwc:vernacularName,dwc:vernacularName,dwc_vernacularname_t
+taxonomy,Taxonomy,0,17,,Taxon Remarks,dwc:taxonRemarks,dwc:taxonRemarks,dwc_taxonremarks_t
+specimen,Specimen,1,0,,Type Status,dwc:typeStatus,dwc:typeStatus,dwc_typestatus_t
+specimen,Specimen,1,1,,Identified By,dwc:identifiedBy,dwc:identifiedBy,dwc_identifiedby_t
+specimen,Specimen,1,2,,Date Identified,dwc:dateIdentified,dwc:dateIdentified,dwc_dateidentified_t
+specimen,Specimen,1,3,,Previous Identifications,dwc:previousIdentifications,dwc:previousIdentifications,dwc_previousidentifications_t
+specimen,Specimen,1,4,,Identification Qualifier,dwc:identificationQualifier,dwc:identificationQualifier,dwc_identificationqualifier_t
+specimen,Specimen,1,5,,Identification Remarks,dwc:identificationRemarks,dwc:identificationRemarks,dwc_identificationremarks_t
+specimen,Specimen,1,6,,Identification References,dwc:identificationReferences,dwc:identificationReferences,dwc_identificationreferences_t
+specimen,Specimen,1,7,,Catalog Number,dwc:catalogNumber,dwc:catalogNumber,dwc_catalognumber_t
+specimen,Specimen,1,8,,Other Catalog Numbers,dwc:otherCatalogNumbers,dwc:otherCatalogNumbers,dwc_othercatalognumbers_t
+specimen,Specimen,1,9,,Barcode,idigbio:barcodeValue,idigbio:barcodeValue,idigbio_barcodevalue_t
+specimen,Specimen,1,10,,Preparations,dwc:preparations,dwc:preparations,dwc_preparations_t
+specimen,Specimen,1,11,,Individual Count,dwc:individualCount,dwc:individualCount,dwc_individualcount_t
+specimen,Specimen,1,12,,Life Stage,dwc:lifeStage,dwc:lifeStage,dwc_lifestage_t
+specimen,Specimen,1,13,,Sex,dwc:sex,dwc:sex,dwc_sex_t
+specimen,Specimen,1,14,,Reproductive Condition,dwc:reproductiveCondition,dwc:reproductiveCondition,dwc_reproductivecondition_t
+specimen,Specimen,1,15,,Behavior,dwc:behavior,dwc:behavior,dwc_behavior_t
+specimen,Specimen,1,16,,Verbatim Host,idigbio:verbatimHost,idigbio:verbatimHost,idigbio_verbatimHost_t
+specimen,Specimen,1,17,,Institution Code,dwc:institutionCode,dwc:institutionCode,dwc_institutioncode_t
+specimen,Specimen,1,18,,Collection Code,dwc:collectionCode,dwc:collectionCode,dwc_collectioncode_t
+specimen,Specimen,1,19,,Occurrence ID,dwc:occurrenceID,dwc:occurrenceID,dwc_occurrenceid_t
+specimen,Specimen,1,20,,Dataset Name,dwc:datasetName,dwc:datasetName,dwc_datasetname_t
+specimen,Specimen,1,21,,Basis of Record,dwc:basisOfRecord,dwc:basisOfRecord,dwc_basisofrecord_t
+specimen,Specimen,1,22,,Type of Resource,dcterms:type,dcterms:type,dcterms_type_t
+specimen,Specimen,1,23,,Associated Media,dwc:associatedMedia,dwc:associatedMedia,dwc_associatedmedia_t
+specimen,Specimen,1,24,,Associated References,dwc:associatedReferences,dwc:associatedReferences,dwc_associatedreferences_t
+specimen,Specimen,1,25,,Associated Occurences,dwc:associatedOccurences,dwc:associatedOccurences,dwc_associatedoccurences_t
+specimen,Specimen,1,26,,Associated Sequences,dwc:associatedSequences,dwc:associatedSequences,dwc_associatedsequences_t
+specimen,Specimen,1,27,,Associated Taxa,dwc:associatedTaxa,dwc:associatedTaxa,dwc_associatedtaxa_t
+collectionevent,Collection Event,2,0,,Collected By,dwc:recordedBy,dwc:recordedBy,dwc_recordedby_t
+collectionevent,Collection Event,2,1,,Collector Number,dwc:recordNumber,dwc:recordNumber,dwc_recordnumber_t
+collectionevent,Collection Event,2,2,,Field Number,dwc:fieldNumber,dwc:fieldNumber,dwc_fieldnumber_t
+collectionevent,Collection Event,2,3,,Date Collected,dwc:eventDate,dwc:eventDate,dwc_eventdate_t
+collectionevent,Collection Event,2,4,,Verbatim Date Collected,dwc:verbatimEventDate,dwc:verbatimEventDate,dwc_verbatimeventdate_t
+collectionevent,Collection Event,2,5,,Year,dwc:year,dwc:year,dwc_year_t
+collectionevent,Collection Event,2,6,,Month,dwc:month,dwc:month,dwc_month_t
+collectionevent,Collection Event,2,7,,Day,dwc:day,dwc:day,dwc_day_t
+collectionevent,Collection Event,2,8,,Start Day of Year,dwc:startDayOfYear,dwc:startDayOfYear,dwc_startdayofyear_t
+collectionevent,Collection Event,2,9,,End Day of Year,dwc:endDayOfYear,dwc:endDayOfYear,dwc_enddayofyear_t
+collectionevent,Collection Event,2,10,,Sampling Protocol,dwc:samplingProtocol,dwc:samplingProtocol,dwc_samplingprotocol_t
+collectionevent,Collection Event,2,11,,Field Notes,dwc:fieldNotes,dwc:fieldNotes,dwc_fieldnotes_t
+collectionevent,Collection Event,2,12,,Collection Remarks,dwc:occurrenceRemarks,dwc:occurrenceRemarks,dwc_occurrenceremarks_t
+locality,Locality,3,0,,Country,dwc:country,dwc:country,dwc_country_t
+locality,Locality,3,1,,Country Code,dwc:countryCode,dwc:countryCode,dwc_countrycode_t
+locality,Locality,3,2,,State / Province,dwc:stateProvince,dwc:stateProvince,dwc_stateprovince_t
+locality,Locality,3,3,,County,dwc:county,dwc:county,dwc_county_t
+locality,Locality,3,4,,Municipality,dwc:municipality,dwc:municipality,dwc_municipality_t
+locality,Locality,3,5,,Higher Geography,dwc:higherGeography,dwc:higherGeography,dwc_highergeography_t
+locality,Locality,3,6,,Continent,dwc:continent,dwc:continent,dwc_continent_t
+locality,Locality,3,7,,Drainage / Basin,idigbio:drainageBasin,idigbio:drainageBasin,idigbio_drainagebasin_t
+locality,Locality,3,8,,Water Body,dwc:waterBody,dwc:waterBody,dwc_waterbody_t
+locality,Locality,3,9,,Stream,idigbio:stream,idigbio:stream,idigbio_stream_t
+locality,Locality,3,10,,Island Group,dwc:islandGroup,dwc:islandGroup,dwc_islandGroup_t
+locality,Locality,3,11,,Island,dwc:island,dwc:island,dwc_island_t
+locality,Locality,3,12,,Locality,dwc:locality,dwc:locality,dwc_locality_t
+locality,Locality,3,13,,Verbatim Locality,dwc:verbatimLocality,dwc:verbatimLocality,dwc_verbatimlocality_t
+locality,Locality,3,14,,TRS,idigbio:locationTRS,idigbio:locationtrs,idigbio_locationtrs_t
+locality,Locality,3,15,,Habitat,dwc:habitat,dwc:habitat,dwc_habitat_t
+locality,Locality,3,16,,Decimal Latitude,dwc:decimalLatitude,dwc:decimalLatitude,dwc_decimallatitude_t
+locality,Locality,3,17,,Decimal Longitude,dwc:decimalLongitude,dwc:decimalLongitude,dwc_decimallongitude_t
+locality,Locality,3,18,,Verbatim Latitude,dwc:verbatimLatitude,dwc:verbatimLatitude,dwc_verbatimlatitude_t
+locality,Locality,3,19,,Verbatim Longitude,dwc:verbatimLongitude,dwc:verbatimLongitude,dwc_verbatimlongitude_t
+locality,Locality,3,20,,Coordinate Precision,dwc:coordinatePrecision,dwc:coordinatePrecision,dwc_coordinateprecision_t
+locality,Locality,3,21,,Maximum Depth in Meters,dwc:maximumDepthInMeters,dwc:maximumDepthInMeters,dwc_maximumdepthinmeters_t
+locality,Locality,3,22,,Minimum Depth in Meters,dwc:minimumDepthInMeters,dwc:minimumDepthInMeters,dwc_minimumdepthinmeters_t
+locality,Locality,3,23,,Maximum Elevation in Meters,dwc:maximumElevationInMeters,dwc:maximumElevationInMeters,dwc_maximumelevationinmeters_t
+locality,Locality,3,24,,Minimum Elevation in Meters,dwc:minimumElevationInMeters,dwc:minimumElevationInMeters,dwc_minimumelevationinmeters_t
+locality,Locality,3,25,,Verbatim Elevation,dwc:verbatimElevation,dwc:verbatimElevation,dwc_verbatimelevation_t
+locality,Locality,3,26,,Georeference Protocol,dwc:georeferenceProtocol,dwc:georeferenceProtocol,dwc_georeferenceprotocol_t
+locality,Locality,3,27,,Location Remarks,dwc:locationRemarks,dwc:locationRemarks,dwc_locationremarks_t
+locality,Locality,3,28,,Location ID,dwc:locationID,dwc:locationID,dwc_locationid_t
+locality,Locality,3,29,,Verbatim Coordinates,dwc:verbatimCoordinates,dwc:verbatimCoordinates,dwc_verbatimcoordinates_t
+locality,Locality,3,30,,Basin,inhs:location_Basin,inhs:location_Basin,inhs_location_basin_t
+locality,Locality,3,31,,Stream,inhs:location_Stream,inhs:location_Stream,inhs_location_stream_t
+locality,Locality,3,32,,Location According To,dwc:locationAccordingTo,dwc:locationAccordingTo,dwc_locationaccordingto_t
+locality,Locality,3,33,,Coordinate Uncertainty In Meters,dwc:coordinateUncertaintyInMeters,dwc:coordinateUncertaintyInMeters,dwc_coordinateuncertaintyinmeters_t
+locality,Locality,3,34,,Geodetic Datum,dwc:geodeticDatum,dwc:geodeticDatum,dwc_geodeticdatum_t
+locality,Locality,3,35,,Georeference Remarks,dwc:georeferenceRemarks,dwc:georeferenceRemarks,dwc_georeferenceremarks_t
+locality,Locality,3,36,,Georeferenced By,dwc:georeferencedBy,dwc:georeferencedBy,dwc_georeferencedby_t
+locality,Locality,3,37,,Georeferenced Date,dwc:georeferencedDate,dwc:georeferencedDate,dwc_georeferenceddate_t
+paleocontext,Paleo Context,4,0,,Bed,dwc:bed,dwc:bed,dwc_bed_t
+paleocontext,Paleo Context,4,1,,Geological Context Group,dwc:group,dwc:group,dwc_group_t
+paleocontext,Paleo Context,4,2,,Member,dwc:member,dwc:member,dwc_member_t
+paleocontext,Paleo Context,4,3,,Formation,dwc:formation,dwc:formation,dwc_formation_t
+paleocontext,Paleo Context,4,4,,Earliest Era Or Lowest Erathem,dwc:earliestEraOrLowestErathem,dwc:earliestEraOrLowestErathem,dwc_earliesteraorlowesterathem_t
+paleocontext,Paleo Context,4,5,,Latest Era Or Highest Erathem,dwc:latestEraOrHighestErathem,dwc:latestEraOrHighestErathem,dwc_latesteraorhighesterathem_t
+paleocontext,Paleo Context,4,6,,Earliest Eon Or Lowest Eonothem,dwc:earliestEonOrLowestEonothem,dwc:earliestEonOrLowestEonothem,dwc_earliesteonorlowesteonothem_t
+paleocontext,Paleo Context,4,7,,Latest Eon Or Highest Eonothem,dwc:latestEonOrHighestEonothem,dwc:latestEonOrHighestEonothem,dwc_latesteonorhighesteonothem_t
+paleocontext,Paleo Context,4,8,,Earliest Period Or Lowest System,dwc:earliestPeriodOrLowestSystem,dwc:earliestPeriodOrLowestSystem,dwc_earliestperiodorlowestsystem_t
+paleocontext,Paleo Context,4,9,,Latest Period Or Highest System,dwc:latestPeriodOrHighestSystem,dwc:latestPeriodOrHighestSystem,dwc_latestperiodorhighestsystem_t
+paleocontext,Paleo Context,4,10,,Earliest Epoch Or Lowest Series,dwc:earliestEpochOrLowestSeries,dwc:earliestEpochOrLowestSeries,dwc_earliestepochorlowestseries_t
+paleocontext,Paleo Context,4,11,,Latest Epoch Or Highest Series,dwc:latestEpochOrHighestSeries,dwc:latestEpochOrHighestSeries,dwc_latestepochorhighestseries_t
+paleocontext,Paleo Context,4,12,,Earliest Age Or Lowest Stage,dwc:earliestAgeOrLowestStage,dwc:earliestAgeOrLowestStage,dwc_earliestageorloweststage_t
+paleocontext,Paleo Context,4,13,,Latest Age Or Highest Stage,dwc:latestAgeOrHighestStage,dwc:latestAgeOrHighestStage,dwc_latestageorhigheststage_t
+paleocontext,Paleo Context,4,14,,Lowest Biostratigraphic Zone,dwc:lowestBiostratigraphicZone,dwc:lowestBiostratigraphicZone,dwc_lowestbiostratigraphiczone_t
+paleocontext,Paleo Context,4,15,,Lithostratigraphic Terms,dwc:lithostratigraphicTerms,dwc:lithostratigraphicTerms,dwc_lithostratigraphicterms_t
+other,Other,5,0,,Language,dcterms:language,dcterms:language,dcterms_language_t
+other,Other,5,1,,Date Modified,dcterms:modified,dcterms:modified,dcterms_modified_t
+other,Other,5,2,,ID,id,id,id_t
+media,Media,10,0,,Associated Specimen Reference,ac:associatedSpecimenReference,ac:associatedSpecimenReference,ac_associatedspecimenreference_t
+media,Media,10,1,,Attribution Logo URL,ac:attributionLogoUrl,ac:attributionLogoUrl,ac_attributionlogourl_t
+media,Media,10,2,,Best Quality Access URI,ac:bestQualityAccessURI,ac:bestQualityAccessURI,ac_bestqualityaccessuri_t
+media,Media,10,3,,Best Quality Further Information URL,ac:bestQualityFurtherInformationUrl,ac:bestQualityFurtherInformationUrl,ac_bestqualityfurtherinformationurl_t
+media,Media,10,4,,Capture Device,ac:captureDevice,ac:captureDevice,ac_capturedevice_t
+media,Media,10,5,,Medium Quality Access URI,ac:mediumQualityAccessURI,ac:mediumQualityAccessURI,ac_mediumqualityaccessuri_t
+media,Media,10,6,,Provider ID,ac:providerId,ac:providerId,ac_providerid_t
+media,Media,10,7,,Provider Managed ID,ac:providerManagedId,ac:providerManagedId,ac_providermanagedid_t
+media,Media,10,8,,Resource Creation Technique,ac:resourceCreationTechnique,ac:resourceCreationTechnique,ac_resourcecreationtechnique_t
+media,Media,10,9,,Subject Orientation,ac:subjectOrientation,ac:subjectOrientation,ac_subjectorientation_t
+media,Media,10,10,,Subject Part,ac:subjectPart,ac:subjectPart,ac_subjectpart_t
+media,Media,10,11,,Tag,ac:tag,ac:tag,ac_tag_t
+media,Media,10,12,,Thumbnail Access URI,ac:thumbnailAccessURI,ac:thumbnailAccessURI,ac_thumbnailaccessuri_t
+media,Media,10,13,,Available,dcterms:available,dcterms:available,dcterms_available_t
+media,Media,10,14,,Best Quality Extent,dcterms:bestQualityExtent,dcterms:bestQualityExtent,dcterms_bestqualityextent_t
+media,Media,10,15,,Best Quality Format,dcterms:bestQualityFormat,dcterms:bestQualityFormat,dcterms_bestqualityformat_t
+media,Media,10,16,,Creator,dcterms:creator,dcterms:creator,dcterms_creator_t
+media,Media,10,17,,Description,dcterms:description,dcterms:description,dcterms_description_t
+media,Media,10,18,,Identifier,dcterms:identifier,dcterms:identifier,dcterms_identifier_t
+media,Media,10,19,,Medium Quality Format,dcterms:mediumQualityFormat,dcterms:mediumQualityFormat,dcterms_mediumqualityformat_t
+media,Media,10,20,,Metadata Creator,dcterms:metadataCreator,dcterms:metadataCreator,dcterms_metadatacreator_t
+media,Media,10,21,,Metadata Language,dcterms:metadataLanguage,dcterms:metadataLanguage,dcterms_metadatalanguage_t
+media,Media,10,22,,Metadata Provider,dcterms:metadataProvider,dcterms:metadataProvider,dcterms_metadataprovider_t
+media,Media,10,23,,Modified,dcterms:modified,dcterms:modified,dcterms_modified_t
+media,Media,10,24,,Provider,dcterms:provider,dcterms:provider,dcterms_provider_t
+media,Media,10,25,,Rights,dcterms:rights,dcterms:rights,dcterms_rights_t
+media,Media,10,26,,Thumbnail Format,dcterms:thumbnailFormat,dcterms:thumbnailFormat,dcterms_thumbnailformat_t
+media,Media,10,27,,Title,dcterms:title,dcterms:title,dcterms_title_t
+media,Media,10,28,,Type of Resource,dcterms:type,dcterms:type,dcterms_type_t
+media,Media,10,29,,Name According To,dwc:nameAccordingTo,dwc:nameAccordingTo,dwc_nameaccordingto_t
+media,Media,10,30,,Rights Owner,xmprights:owner,xmprights:owner,xmprights_owner_t
+media,Media,10,31,,Type,dc:type,dc:type,dc_type_t
+media,Media,10,32,,Rights,dc:rights,dc:rights,dc_rights_t
+media,Media,10,33,,Subtype,ac:subtypeLiteral,ac:subtypeLiteral,ac_subtypeliteral_t
+media,Media,10,34,,Subtype,ac:subtype,ac:subtype,ac_subtype_t
+media,Media,10,35,,Metadata Date,xmp:MetadataDate,xmp:MetadataDate,xmp_metadatadate_t
+media,Media,10,36,,Metadata Language,metadataLanguageLiteral,metadataLanguageLiteral,metadatalanguageliteral_t
+media,Media,10,37,,Metadata Language,metadataLanguage,metadataLanguage,metadatalanguage_t
+media,Media,10,38,,Provider-managed ID,ac:providerManagedID,ac:providerManagedID,ac_providermanagedid_t
+media,Media,10,39,,Rating,xmp:Rating,xmp:Rating,xmp_rating_t
+media,Media,10,40,,Commenter,ac:commenter,ac:commenter,ac_commenter_t
+media,Media,10,41,,Commenter,ac:commenterLiteral,ac:commenterLiteral,ac_commenterliteral_t
+media,Media,10,42,,Comments,ac:comments,ac:comments,ac_comments_t
+media,Media,10,43,,Reviewer,ac:reviewer,ac:reviewer,ac_reviewer_t
+media,Media,10,44,,Reviewer,ac:reviewerLiteral,ac:reviewerLiteral,ac_reviewerliteral_t
+media,Media,10,45,,Reviewer Comments,ac:reviewerComments,ac:reviewerComments,ac_reviewercomments_t
+media,Media,10,46,,Service Access Point,ac:hasServiceAccessPoint,ac:hasServiceAccessPoint,ac_hasserviceaccesspoint_t
+media,Media,10,47,,Credit,xmpRights:Owner,xmpRights:Owner,xmprights_owner_t
+media,Media,10,48,,License Terms,xmpRights:UsageTerms,xmpRights:UsageTerms,xmprights_usageterms_t
+media,Media,10,49,,License URL,xmpRights:WebStatement,xmpRights:WebStatement,xmprights_webstatement_t
+media,Media,10,50,,License Logo URL,ac:licenseLogoURL,ac:licenseLogoURL,ac_licenselogourl_t
+media,Media,10,51,,Attribution Statement,photoshop:Credit,photoshop:Credit,photoshop_credit_t
+media,Media,10,52,,Attribution URL,ac:attributionLogoURL,ac:attributionLogoURL,ac_attributionlogourl_t
+media,Media,10,53,,Attribution Link URL,ac:attributionLinkURL,ac:attributionLinkURL,ac_attributionlinkurl_t
+media,Media,10,54,,Funding,ac:fundingAttribution,ac:fundingAttribution,ac_fundingattribution_t
+media,Media,10,55,,Published Source,dc:source,dc:source,dc_source_t
+media,Media,10,56,,Published Source,dcterms:source,dcterms:source,dcterms_source_t
+media,Media,10,57,,Creator,dc:creator,dc:creator,dc_creator_t
+media,Media,10,58,,Provider,ac:providerLiteral,ac:providerLiteral,ac_providerliteral_t
+media,Media,10,59,,Provider,ac:provider,ac:provider,ac_provider_t
+media,Media,10,60,,Place Holder,place:holder,place:holder,bs_bogus_t
+media,Media,10,61,,Metadata Provider,ac:metadataProviderLiteral,ac:metadataProviderLiteral,ac_metadataproviderliteral_t
+media,Media,10,62,,Metadata Provider,ac:metadataProvider,ac:metadataProvider,ac_metadataprovider_t
+media,Media,10,63,,Metadata Creator,ac:metadataCreatorLiteral,ac:metadataCreatorLiteral,ac_metadatacreatorliteral_t
+media,Media,10,64,,Metadata Creator,ac:metadataCreator,ac:metadataCreator,ac_metadatacreator_t
+media,Media,10,65,,Caption,ac:caption,ac:caption,ac_caption_t
+media,Media,10,66,,Language,dc:language,dc:language,dc_language_t
+media,Media,10,67,,Language,dcterms:language,dcterms:language,dcterms_language_t
+media,Media,10,68,,Physical Setting,ac:physicalSetting,ac:physicalSetting,ac_physicalsetting_t
+media,Media,10,69,,Subject Category,Iptc4xmpExt:CVterm,Iptc4xmpExt:CVterm,iptc4xmpext_cvterm_t
+media,Media,10,70,,Subject Category Vocabulary,ac:subjectCategoryVocabulary,ac:subjectCategoryVocabulary,ac_subjectcategoryvocabulary_t
+media,Media,10,71,,Location Shown,Iptc4xmpExt:LocationShown,Iptc4xmpExt:LocationShown,iptc4xmpext_locationshown_t
+media,Media,10,72,,World Region,Iptc4xmpExt:WorldRegion,Iptc4xmpExt:WorldRegion,iptc4xmpext_worldregion_t
+media,Media,10,73,,Country Code,Iptc4xmpExt:CountryCode,Iptc4xmpExt:CountryCode,iptc4xmpext_countrycode_t
+media,Media,10,74,,Country Name,Iptc4xmpExt:CountryName,Iptc4xmpExt:CountryName,iptc4xmpext_countryname_t
+media,Media,10,75,,Provinceor State,Iptc4xmpExt:ProvinceState,Iptc4xmpExt:ProvinceState,iptc4xmpext_provincestate_t
+media,Media,10,76,,Cityor Place Name,Iptc4xmpExt:City,Iptc4xmpExt:City,iptc4xmpext_city_t
+media,Media,10,77,,Sublocation,Iptc4xmpExt:Sublocation,Iptc4xmpExt:Sublocation,iptc4xmpext_sublocation_t
+media,Media,10,78,,Temporal Coverage,dcterms:temporal,dcterms:temporal,dcterms_temporal_t
+media,Media,10,79,,Original Dateand Time,xmp:CreateDate,xmp:CreateDate,xmp_createdate_t
+media,Media,10,80,,Timeof Day,ac:timeOfDay,ac:timeOfDay,ac_timeofday_t
+media,Media,10,81,,Taxon Coverage,ac:taxonCoverage,ac:taxonCoverage,ac_taxoncoverage_t
+media,Media,10,82,,Other Scientific Name,ac:otherScientificName,ac:otherScientificName,ac_otherscientificname_t
+media,Media,10,83,,Taxon Count,ac:taxonCount,ac:taxonCount,ac_taxoncount_t
+media,Media,10,84,,Location Created,Iptc4xmpExt:LocationCreated,Iptc4xmpExt:LocationCreated,iptc4xmpext_locationcreated_t
+media,Media,10,85,,Dateand Time Digitized,ac:digitizationDate,ac:digitizationDate,ac_digitizationdate_t
+media,Media,10,86,,ID Containing Collection,ac:IDofContainingCollection,ac:IDofContainingCollection,ac_idofcontainingcollection_t
+media,Media,10,87,,Related Resource ID,ac:relatedResourceID,ac:relatedResourceID,ac_relatedresourceid_t
+media,Media,10,88,,Provider ID,ac:providerID,ac:providerID,ac_providerid_t
+media,Media,10,89,,Derived From,ac:derivedFrom,ac:derivedFrom,ac_derivedfrom_t
+media,Media,10,90,,Associated Observation Reference,ac:associatedObservationReference,ac:associatedObservationReference,ac_associatedobservationreference_t
+media,Media,10,91,,Access URI,ac:accessURI,ac:accessURI,ac_accessuri_t
+media,Media,10,92,,Format,dc:format,dc:format,dc_format_t
+media,Media,10,93,,Format,dcterms:format,dcterms:format,dcterms_format_t
+media,Media,10,94,,Variant,ac:variant,ac:variant,ac_variant_t
+media,Media,10,95,,Extent,dcterms:extent,dcterms:extent,dcterms_extent_t
+media,Media,10,96,,Further Information URL,ac:furtherInformationURL,ac:furtherInformationURL,ac_furtherinformationurl_t
+media,Media,10,97,,Licensing Exception Statement,ac:licensingException,ac:licensingException,ac_licensingexception_t
+media,Media,10,98,,Service Expectation,ac:serviceExpectation,ac:serviceExpectation,ac_serviceexpectation_t
+media,Media,10,99,,Variant Description,ac:variantDescription,ac:variantDescription,ac_variantdescription_t
+media,Media,10,100,,Hash Function,ac:hashFunction,ac:hashFunction,ac_hashfunction_t
+media,Media,10,101,,Hash,ac:hashValue,ac:hashValue,ac_hashvalue_t
+media,Media,10,102,,Image Width,mix:imageWidth,mix:imageWidth,mix_imagewidth_t
+media,Media,10,103,,Image Height,mix:imageHeight,mix:imageHeight,mix_imageheight_t
+media,Media,10,104,,File Size,mix:fileSize,mix:fileSize,mix_filesize_t
+person,Person,20,0,,Name,foaf:name,foaf:name,foaf_name_t
+person,Person,20,1,,Institution Type,idigbio:institutionType,idigbio:institutionType,idigbio_institutiontype_t
+person,Person,20,2,,Institution Name,idigbio:institutionName,idigbio:institutionName,idigbio_institutionname_t
+person,Person,20,3,,Collection Category,idigbio:collectionCategory,idigbio:collectionCategory,idigbio_collectioncategory_t
+person,Person,20,4,,Collection Size,idigbio:collectionSize,idigbio:collectionSize,idigbio_collectionsize_t
+person,Person,20,5,,Important Holdings,idigbio:importantHoldings,idigbio:importantHoldings,idigbio_importantholdings_t

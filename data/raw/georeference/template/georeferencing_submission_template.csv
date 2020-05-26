@@ -1,0 +1,2 @@
+name,Latitude,Longitude,ID,basis,coordinateUncertaintyInMeters,date,data.dwc:catalogNumber,data.dwc:institutionCode
+fake,0,0,2ou345,observed,NA,NA,NA,NA
