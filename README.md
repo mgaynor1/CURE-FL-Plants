@@ -68,4 +68,10 @@ Next, niche overla or Schoener’s D was calculated using the [R package ENMEval
 
 Finally, we calculated geographic overlap between the current and future projections. We generated 10,000 random points inside the full extent layers using the function spsample from the [R package sp](https://cran.r-project.org/web/packages/sp/index.html). Suitability score for these random points was extracted from each model. We then set a minimum suitability threshold of 0.25 to signify an area as suitable for each species, while a value under 0.25 was designated unsuitable, for present and future distributions. Geographic overlap (G) was then calculated for each species as the percentage of points found in the present distribution relative to those in the future distribution. 
 
-   
+
+
+# Issues and Reuse 
+If you have any issues, please feel free to open an issue on github or email me (michellegaynor at ufl.edu). I'd love feedback on this material if you end up using the scripts in classes or research. If you use these scripts in research, please refer to https://github.com/mgaynor1/CURE-FL-Plants in-text. 
+
+Please do not plagurize the text above. Instead, paraphrase and cite this repository. 
+
